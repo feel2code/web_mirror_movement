@@ -21,7 +21,7 @@ const CTA: React.FC = () => {
                         <AppStoreButton />
                         <PlayStoreButton />
                         <a href="https://t.me/mirror_move_bot" 
-                           className="text-black bg-primary hover:bg-primary-accent px-10 py-6 rounded-full transition-colors">
+                           className="text-black bg-primary hover:bg-primary-accent px-5 py-5 mt-4 rounded-full transition-colors">
                           Оформить подписку
                         </a>
                         </div>
