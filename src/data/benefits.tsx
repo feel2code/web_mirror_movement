@@ -38,7 +38,7 @@ export const benefits: IBenefit[] = [
             },
             {
                 title: "LinkedIn",
-                description: `Вы копирайтер, фрилансер, или просто любители соцсетей? Найти работу за рубежом поможет ${siteDetails.siteName}`,
+                description: `Вы копирайтер, фрилансер, или просто любитель соцсетей? Найти работу за рубежом поможет ${siteDetails.siteName}`,
                 icon: <FaLinkedin size={26} />
             },
             {
