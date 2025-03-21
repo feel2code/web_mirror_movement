@@ -28,8 +28,8 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/mockup-2.png"
     },
     {
-        title: "Seamless Investing",
-        description: "Start building wealth today, no financial degree required. Finwise makes investing accessible and straightforward.",
+        title: "Откройте новые возможности",
+        description: "Сервисы и сайты, которые раньше были недоступны, теперь доступны вам!",
         bullets: [
             {
                 title: "Spotify",
