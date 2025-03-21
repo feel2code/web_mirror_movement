@@ -1,5 +1,5 @@
-import { FiBarChart2, FiBriefcase, FiDollarSign, FiLock, FiPieChart, FiShield, FiTarget, FiTrendingUp, FiUser } from "react-icons/fi";
-import { FaFacebook, FaGithub, FaInstagram, FaSpotify, FaLinkedin, FaThreads, FaTwitter, FaXTwitter, FaYoutube, FaTelegram } from "react-icons/fa6";
+import { FiPieChart } from "react-icons/fi";
+import { FaInstagram, FaSpotify, FaLinkedin, FaXTwitter, FaYoutube } from "react-icons/fa6";
 import { siteDetails } from "./siteDetails";
 
 import { IBenefit } from "@/types"
