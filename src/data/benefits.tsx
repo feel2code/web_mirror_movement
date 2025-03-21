@@ -25,7 +25,7 @@ export const benefits: IBenefit[] = [
                 icon: <FaXTwitter size={26} />
             }
         ],
-        imageSrc: "/images/mockup-2.png"
+        imageSrc: "/images/mockup-2.webp"
     },
     {
         title: "Откройте новые возможности",
@@ -47,6 +47,6 @@ export const benefits: IBenefit[] = [
                 icon: <FiPieChart size={26} />
             }
         ],
-        imageSrc: "/images/mockup-1.png"
+        imageSrc: "/images/mockup-1.webp"
     },
 ]
