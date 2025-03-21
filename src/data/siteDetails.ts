@@ -1,6 +1,6 @@
 export const siteDetails = {
     siteName: 'Зеркальный переход',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteUrl: 'https://feel2code-web-mirror-movement-2c54.twc1.net',
     metadata: {
         title: 'Зеркальный Переход - ламповый VPN сервис',
         description: 'Зеркальный Переход - ламповый VPN сервис',
